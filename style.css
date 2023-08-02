@@ -1,8 +1,7 @@
 .divMae > h1{
     text-align: center;
-    color: rosybrown;
 }
 
-.divMae > h1 ::placeholder{
+h1 ::placeholder{
     color: blueviolet;
 }
