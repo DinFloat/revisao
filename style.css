@@ -2,6 +2,6 @@
     text-align: center;
 }
 
-h1 ::placeholder{
+textarea ::placeholder{
     color: blueviolet;
 }
