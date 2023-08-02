@@ -2,6 +2,9 @@
     text-align: center;
 }
 
+textarea{
+    color: rgb(212, 15, 137);
+}
 textarea ::placeholder{
     color: blueviolet;
 }
