@@ -8,9 +8,11 @@ body{
 }
 
 .divBox1{
-    background-color: #5b8895;
-    width: 35%;
-    height: 150px;
-    display: block;
-    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    padding: 30px 35px;
+    background:#5b8895;
+    border-radius: 20px;
 }
