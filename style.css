@@ -13,8 +13,12 @@ body{
     align-items: center;
     flex-direction: column;
     padding: 10px 15px;
-    background:#5b8895;
+    background:#3f5e67;
     border-radius: 5px;
+}
+
+.divH1{
+    color: #11c7d7;
 }
 
 h1{
