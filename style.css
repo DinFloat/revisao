@@ -12,7 +12,7 @@ body{
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    padding: 30px 35px;
+    padding: 10px 15px;
     background:#5b8895;
-    border-radius: 20px;
+    border-radius: 5px;
 }
