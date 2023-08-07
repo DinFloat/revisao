@@ -1,8 +1,11 @@
 body{
     background-color: #171717;
     color: #ffffff;
+    text-align: center;
 }
 
 .divBox1{
-    background-color: #9dd8ea;
+    background-color: #5b8895;
+    width: 150px;
+    height: 250px;
 }
